@@ -3,7 +3,6 @@ import type { } from 'vue'
 import HelloWorld from './components/HelloWorld.vue'
 import Foo from './components/Foo.vue'
 import Bar from './components/Bar.vue'
-HTMLAnchorElement
 </script>
 
 <template>
